@@ -263,6 +263,21 @@ school.html:
 
 ## Output:
 
+##INDEX
+![image](https://github.com/Sachin-vlr/places-around-me/assets/113497666/3b026df8-a646-413b-8661-785b33d974b9)
+
+##HOME
+![image](https://github.com/Sachin-vlr/places-around-me/assets/113497666/fa1aa5a1-33ca-48ea-a7a6-aaccf14b374e)
+
+##TEMPLE
+![image](https://github.com/Sachin-vlr/places-around-me/assets/113497666/567f18bd-a175-489a-8e10-fcb614894cdd)
+
+##SCHOOL
+![image](https://github.com/Sachin-vlr/places-around-me/assets/113497666/92fd7823-9669-400a-9db4-7a9f8025d20e)
+
+##SPORTS
+![image](https://github.com/Sachin-vlr/places-around-me/assets/113497666/81d76e0c-3a07-4713-9bc1-99978a7aa519)
+
 
 ## Result:
 Thus image mapping has been accomplished
